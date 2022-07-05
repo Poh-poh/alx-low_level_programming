@@ -4,7 +4,7 @@
  *
  * @n: variable
  *
- * Return: 1 if +ve; 0 if zero; -1 if -ve 
+ * Return: 1 if +ve 0 if zero -1 if -ve
  */
 int print_sign(int n)
 {
