@@ -1,4 +1,5 @@
 #include "main.h"
+#include <unistd>
 
 /**
  * main - entry point
