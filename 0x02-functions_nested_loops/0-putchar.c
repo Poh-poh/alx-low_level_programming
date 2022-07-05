@@ -2,10 +2,10 @@
 
 /**
  * main - entry point
- * return (0)
+ * return: Always 0
  */
 
-void int main(void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -15,5 +15,6 @@ void int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	returnm (0);
+
+	return (0);
 }
