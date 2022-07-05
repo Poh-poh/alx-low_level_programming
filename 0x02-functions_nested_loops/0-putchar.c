@@ -5,11 +5,9 @@
  * return (0)
  */
 
-int main(void)
+void int main(void)
 {
-	char c = '_';
-
-	_putchar(c);
+	_putchar('_');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
@@ -17,5 +15,5 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	return (0);
+	returnm (0);
 }
