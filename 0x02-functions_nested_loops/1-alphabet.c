@@ -2,8 +2,10 @@
 /**
  * main -entrypoint
  *
- * return void
- *Write a function that prints the alphabet, in lowercase, followed by a new line.
+ * Description: 'Write a function that prints the alphabet, in lowercase, followed by a new line'
+ *
+ * Return: Always 0
+ *
  */
 void print_alphabet(void)
 {
