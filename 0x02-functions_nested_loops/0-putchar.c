@@ -7,13 +7,8 @@
 
 int main(void)
 {
+	char c = "putchar";
 	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
+	_putchar(c);
 	return (0);
 }
