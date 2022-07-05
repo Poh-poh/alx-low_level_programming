@@ -2,7 +2,7 @@
 /**
  * main -entrypoint
  *
- * Description:prints the alphabet, in lowercase \n
+ * print_alphabet:prints the alphabet, in lowercase \n
  *
  * Return: Always 0
  *
