@@ -2,7 +2,6 @@
 /**
  * print_last_digit - prints last digit only
  * @n: First operand
- * @last: second operand
  *
  * Return: last_digit
  */
