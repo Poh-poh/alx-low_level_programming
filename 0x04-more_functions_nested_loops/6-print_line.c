@@ -3,7 +3,7 @@
 /**
  * print_line - draws a straight line in the terminal
  * Return: 0
- * @n - first integer
+ * @n: first integer
  */
 
 void print_line(int n)
