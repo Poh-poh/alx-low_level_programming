@@ -22,10 +22,12 @@ void rev_string(char *s)
 		a++;
 	}
 
-	for (i = 0; i < (c / 2);i++)
+	for (i = 0; i < (c / 2); i++)
 	{
 		aux = s[i];
 		s[i] = *a;
-		*a = aux;a--;
+		*a = aux;
+
+		a--;
 	}
 }
